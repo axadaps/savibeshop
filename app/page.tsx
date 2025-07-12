@@ -398,7 +398,7 @@ export default function SavibeShopLanding() {
                 delay={100}
               />
               <ContactButton 
-                href="https://shopee.co.id/savibeshop"
+                href="https://shopee.co.id/babaluana"
                 icon={<ShoppingCart />}
                 label="Shopee"
                 className="bg-gradient-to-br from-orange-500 to-orange-600 w-full sm:w-auto hover:from-orange-600 hover:to-orange-700"
