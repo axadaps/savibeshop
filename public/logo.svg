@@ -1,0 +1,39 @@
+<svg width="320" height="160" viewBox="0 0 320 160" xmlns="http://www.w3.org/2000/svg">
+  <!-- Definisi Font dari Google Fonts -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Latar Belakang Maroon -->
+  <rect width="100%" height="100%" fill="#5a1d1d" rx="12" ry="12"/>
+
+  <!-- Teks Utama: SAVIBESHOP' -->
+  <text
+    x="50%"
+    y="45%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-family="'Cormorant Garamond', serif"
+    font-size="32"
+    fill="#fbf8f3"
+    letter-spacing="0.1em"
+  >
+    SAVIBESHOP’
+  </text>
+
+  <!-- Bintang-bintang -->
+  <text
+    x="50%"
+    y="75%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-family="serif"
+    font-size="28"
+    fill="rgba(251, 248, 243, 0.8)"
+    letter-spacing="0.15em"
+  >
+    ★★★★
+  </text>
+</svg>
